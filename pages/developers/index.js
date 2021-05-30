@@ -5,5 +5,5 @@ const Developers = () => {
     </div>
    );
 }
- sfc
+ 
 export default Developers;
